@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404060500488",
+    "firebase_url": "https://textrecofromgallery.firebaseio.com",
+    "project_id": "textrecofromgallery",
+    "storage_bucket": "textrecofromgallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404060500488:android:5473f080675265b4bb17bd",
+        "android_client_info": {
+          "package_name": "com.example.mytextreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404060500488-okhpb21c694g0fm172791khse261ljsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRUMjRT7XfUVp92boX5cKQdi_sBhHDiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404060500488-okhpb21c694g0fm172791khse261ljsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
